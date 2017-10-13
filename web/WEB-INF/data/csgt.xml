@@ -1,0 +1,1186 @@
+<data>
+	<!-- tinh cao bang -->
+	<csgt id="11" name="cao bằng-cao bang-caobang">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Cao Bằng</ten>
+			<diachi>Tỉnh Cao Bằng</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Cao Bằng</ten>
+			<diachi>Tỉnh Cao Bằng</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Tỉnh Cao Bằng</ten>
+			<diachi>Tỉnh Cao Bằng</diachi>
+		</chicuc>
+		<doi>
+			<ten>Đội Đăng Ký Quản Lý Xe Phòng Cảnh Sát Giao Thông Công An Tỉnh Cao Bằng</ten>
+			<diachi>Tỉnh Cao Bằng</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Lạng Sơn	 -->
+	<csgt id="12" name="lạng sơn-lang son-langson">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Lạng Sơn</ten>
+			<diachi>36 Trần Hưng Đạo, P. Chi Lăng, TP. Lạng Sơn, Tỉnh Lạng Sơn</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Lạng Sơn</ten>
+			<diachi>Tỉnh Lạng Sơn</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Tỉnh Lạng Sơn</ten>
+			<diachi>Tỉnh Lạng Sơn</diachi>
+		</chicuc>
+		<doi>
+			<ten>Đội Đăng Ký Quản Lý Xe Phòng Cảnh Sát Giao Thông Công An Tỉnh Lạng Sơn</ten>
+			<diachi>Tỉnh Lạng Sơn</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Quảng Ninh	 -->
+	<csgt id="14" name="quảng ninh-quang ninh-quangninh">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Quảng Ninh</ten>
+			<diachi>Cột 8,Phường Hồng Hà, Tp Hạ Long, Tỉnh Quảng Ninh</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải - UBND Tỉnh Quảng Ninh</ten>
+			<diachi>Cột 8, Hồng Hà, TP.Hạ Long, T.Quảng Ninh</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Tỉnh Quảng Ninh</ten>
+			<diachi>Tỉnh Quảng Ninh</diachi>
+		</chicuc>
+		<doi>
+			<ten>Đội Đăng Ký Quản Lý Xe Phòng Cảnh Sát Giao Thông Công An Tỉnh Quảng Ninh</ten>
+			<diachi>Tỉnh Quảng Ninh</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Hải Phòng	 -->
+	<csgt id="15-16" name="hải phòng-hai phong-haiphong">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Thành Phố Hải Phòng</ten>
+			<diachi>Số 14 Phan Chu Trinh, Hồng Bàng, Thành Phố Hải Phòng</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Thành Phố Hải Phòng</ten>
+			<diachi>Số 01 Cù Chính Lan, Quận Hồng Bàng, Thành Phố Hải Phòng</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Phố Hải Phòng</ten>
+			<diachi>Thành Phố Hải Phòng</diachi>
+		</chicuc>
+		<doi>
+			<ten>Đội Đăng Ký Quản Lý Xe Phòng Cảnh Sát Giao Thông Công An Thành Phố Hải Phòng</ten>
+			<diachi>Thành Phố Hải Phòng</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Thái Bình	 -->
+	<csgt id="17" name="thái bình-thai binh-thaibinh">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Thái Bình</ten>
+			<diachi>433 Trần Hưng Đạo, TP. Thái Bình, Thái Bình</diachi>
+		</phong>
+		<so>
+			<ten>Sở giao thông vận tải tỉnh Thái Bình</ten>
+			<diachi>414, Phố Trần Hưng Đạo, TP. Thái Bình Tỉnh Thái Bình</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Thái Bình</ten>
+			<diachi>Tỉnh Thái Bình</diachi>
+		</chicuc>
+		<doi>
+			<ten>Đội Đăng Ký Quản Lý Xe Phòng Cảnh Sát Giao Thông Công An Tỉnh Thái Bình</ten>
+			<diachi>Tỉnh Thái Bình</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Nam Định	 -->
+	<csgt id="18" name="nam định-nam dinh-namdinh">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Nam Định</ten>
+			<diachi>Đường Trần Đăng Ninh, TP. Nam Định, T. Nam Định</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Nam Định</ten>
+			<diachi>Tỉnh Nam Định</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Nam Định</ten>
+			<diachi>Tỉnh Nam Định</diachi>
+		</chicuc>
+		<doi>
+			<ten>Đội Đăng Ký Quản Lý Xe Phòng Cảnh Sát Giao Thông Công An Tỉnh Nam Định</ten>
+			<diachi>Tỉnh Nam Định</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Phú Thọ	 -->
+	<csgt id="19" name="phú thọ-phu tho-phutho">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Phú Thọ</ten>
+			<diachi>Số 51 Trần Phú, P. Tân Dân, TP. Việt Trì, Tỉnh Phú Thọ</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Phú Thọ</ten>
+			<diachi>Tỉnh Phú Thọ</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Phú Thọ</ten>
+			<diachi>Tỉnh Phú Thọ</diachi>
+		</chicuc>
+		<doi>
+			<ten>Đội Đăng Ký Quản Lý Xe Phòng Cảnh Sát Giao Thông Công An Tỉnh Phú Thọ</ten>
+			<diachi>Tỉnh Phú Thọ</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Thái Nguyên	 -->
+	<csgt id="20" name="thái nguyên-thai nguyen-thainguyen">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Thái Nguyên</ten>
+			<diachi>Đường Phan Đình Phùng, TP. Thái Nguyên, T. Thái Nguyên</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Thái Nguyên</ten>
+			<diachi>Phường Quang Trung, TP. Thái Nguyên, T. Thái Nguyên</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Thái Nguyên</ten>
+			<diachi>Tỉnh Thái Nguyên</diachi>
+		</chicuc>
+		<doi>
+			<ten>Đội Đăng Ký Quản Lý Xe Phòng Cảnh Sát Giao Thông Công An Tỉnh Thái Nguyên</ten>
+			<diachi>Tỉnh Thái Nguyên</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Yên Bái	 -->
+	<csgt id="21" name="yên bái-yen bai-yenbai">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Yên Bái</ten>
+			<diachi>Tổ 72, Phường Yên Ninh, Thành Phố Yên Bái, Tỉnh Yên Bái</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Yên Bái</ten>
+			<diachi>Tỉnh Yên Bái</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Yên Bái</ten>
+			<diachi>Tỉnh Yên Bái</diachi>
+		</chicuc>
+		<doi>
+			<ten>Đội Đăng Ký Quản Lý Xe Phòng Cảnh Sát Giao Thông Công An Tỉnh Yên Bái</ten>
+			<diachi>Tỉnh Yên Bái</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Tuyên Quang	 -->
+	<csgt id="22" name="tuyên quang-tuyen quang-tuyenquang">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Tuyên Quang</ten>
+			<diachi>Phường Phan Thiết, Tỉnh Tuyên Quang</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Tuyên Quang</ten>
+			<diachi>Tỉnh Tuyên Quang</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Tuyên Quang</ten>
+			<diachi>Tỉnh Tuyên Quang</diachi>
+		</chicuc>
+		<doi>
+			<ten>Đội Đăng Ký Quản Lý Xe Phòng Cảnh Sát Giao Thông Công An Tỉnh Tuyên Quang</ten>
+			<diachi>Tỉnh Tuyên Quang</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Hà Giang	 -->
+	<csgt id="23" name="hà giang-ha giang-hagiang">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Hà Giang</ten>
+			<diachi>Phòng Cảnh Sát Giao Thông Công An Tỉnh Hà Giang</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Hà Giang</ten>
+			<diachi>Tỉnh Hà Giang</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Hà Giang</ten>
+			<diachi>Tỉnh Hà Giang</diachi>
+		</chicuc>
+		<doi>
+			<ten>Đội Đăng Ký Quản Lý Xe Phòng Cảnh Sát Giao Thông Công An Tỉnh Hà Giang</ten>
+			<diachi>Tỉnh Hà Giang</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Lào Cai	 -->
+	<csgt id="24" name="lào cai-lao cai-laocai">
+		<phong>
+			<ten>PhòngPhòng Cảnh Sát Giao Thông Công An Tỉnh Lào Cai</ten>
+			<diachi>Đường 1/5, Phường Nam Cường, TP Lào Cai, Tỉnh Lào Cai</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Lào Cai</ten>
+			<diachi>Tỉnh Lào Cai</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Lào Cai</ten>
+			<diachi>Tỉnh Lào Cai</diachi>
+		</chicuc>
+		<doi>
+			<ten>Đội Đăng Ký Quản Lý Xe Phòng Cảnh Sát Giao Thông Công An Tỉnh Lào Cai</ten>
+			<diachi>Tỉnh Lào Cai</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Lai Châu	 -->
+	<csgt id="25" name="lai châu-lai chau-laichau">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Lai Châu</ten>
+			<diachi>Nậm Loỏng II, phường Quyết Thắng, Thành Phố Lai Châu, Lai Châu</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Lai Châu</ten>
+			<diachi>Tỉnh Lai Châu</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Lai Châu</ten>
+			<diachi>Tỉnh Lai Châu</diachi>
+		</chicuc>
+		<doi>
+			<ten>Đội Đăng Ký Quản Lý Xe Phòng Cảnh Sát Giao Thông Công An Tỉnh Lai Châu</ten>
+			<diachi>Tỉnh Lai Châu</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Sơn La	 -->
+	<csgt id="26" name="sơn la-son la-sonla">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Sơn La</ten>
+			<diachi>Phường Tô Hiệu, TP.Sơn La, Tỉnh Sơn La</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Sơn La</ten>
+			<diachi>Tỉnh Sơn La</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Sơn La</ten>
+			<diachi>Tỉnh Sơn La</diachi>
+		</chicuc>
+		<doi>
+			<ten>Đội Đăng Ký Quản Lý Xe Phòng Cảnh Sát Giao Thông Công An Tỉnh Sơn La</ten>
+			<diachi>Tỉnh Sơn La</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Điện Biên -->
+	<csgt id="27" name="điện biên-dien bien-dienbien">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Điện Biên</ten>
+			<diachi>Tổ dân phố 3,P.Nam Thanh, TP.Điện Biên Phủ, Tỉnh Điện Biên</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Điện Biên</ten>
+			<diachi>Tỉnh Điện Biên</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Điện Biên</ten>
+			<diachi>Tỉnh Điện Biên</diachi>
+		</chicuc>
+		<doi>
+			<ten>Đội Đăng Ký Quản Lý Xe Phòng Cảnh Sát Giao Thông Công An Tỉnh Điện Biên</ten>
+			<diachi>Tỉnh Điện Biên</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Hòa Bình	 -->
+	<csgt id="28" name="hòa bình-hoa binh-hoabinh">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Hòa Bình</ten>
+			<diachi>Đường Trần Hưng Đạo, Phương Lâm, TP. Hòa Bình, Tỉnh Hòa Bình</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Hòa Bình</ten>
+			<diachi>Tỉnh Hòa Bình</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Hòa Bình</ten>
+			<diachi>Tỉnh Hòa Bình</diachi>
+		</chicuc>
+		<doi>
+			<ten>Đội Đăng Ký Quản Lý Xe Phòng Cảnh Sát Giao Thông Công An Tỉnh Hòa Bình</ten>
+			<diachi>Tỉnh Hòa Bình</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Hà Nội	 -->
+	<csgt id="29-30-31-32-33-40" name="hà nội-ha noi-hanoi">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Thành Phố Hà Nội</ten>
+			<diachi>Số 02 Nguyễn Khuyến, Hà Đông , Hà Nội_Số 6 Đường Quang Trung, Hà Đông , Hà Nội_86 Lý Thường Kiệt, Q. Hoàn Kiếm, TP. Hà Nội_Số 1234 Đường Láng, Đống Đa, Hà Nội_116 Đặng Phúc Thông,Yên Thường, Gia Lâm, Hà Nội</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Thành Phố Hà Nội</ten>
+			<diachi>Phùng Hưng, Văn Quán, Hà Đông , Hà Nội</diachi>
+		</so>
+		<chicuc>
+			<ten>Cục Cảnh sát Giao Thông thuộc Bộ Công An</ten>
+			<diachi>44 Yếu Kiêu, Q. Hoàn Kiếm, Hà Nội_</diachi>
+		</chicuc>
+		<doi>
+			<ten>Đội Đăng Ký Quản Lý Xe Phòng Cảnh Sát Giao Thông Công An Thành Phố Hà Nội</ten>
+			<diachi>Thành Phố Hà Nội</diachi>
+		</doi>
+                                    <cuc>
+                                        <ten>Bộ Công An-Cục cảnh sát giao thông đường sắt</ten>
+                                        <diachi>112 Lê Duẩn, Quận Hoàn Kiếm, TP Hà Nội</diachi>
+                                    </cuc>
+	</csgt>
+	<!-- tinh Hải Dương	 -->
+	<csgt id="34" name="hải dương-hai duong-haiduong">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Hải Dương</ten>
+			<diachi>Số 106 Nguyễn Lương Bằng, TP. Hải Dương, T. Hải Dương</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Hải Dương</ten>
+			<diachi>Tỉnh Hải Dương</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Hải Dương</ten>
+			<diachi>Tỉnh Hải Dương</diachi>
+		</chicuc>
+		<doi>
+			<ten>Đội Đăng Ký Quản Lý Xe Phòng Cảnh Sát Giao Thông Công An Tỉnh Hải Dương</ten>
+			<diachi>Tỉnh Hải Dương</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Ninh Bình -->
+	<csgt id="35" name="ninh bình-ninh binh-ninhbinh">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Ninh Bình</ten>
+			<diachi>Đường Trần Hưng Đạo, P. Ninh Phong, Tp. Ninh Bình</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Ninh Bình</ten>
+			<diachi>Tỉnh Ninh Bình</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Ninh Bình</ten>
+			<diachi>Tỉnh Ninh Bình</diachi>
+		</chicuc>
+		<doi>
+			<ten>Đội Đăng Ký Quản Lý Xe Phòng Cảnh Sát Giao Thông Công An Tỉnh Ninh Bình</ten>
+			<diachi>Tỉnh Ninh Bình</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Thanh Hóa	 -->
+	<csgt id="36" name="thanh hóa-thanh hoa-thanhhoa">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Thanh Hóa</ten>
+			<diachi>Đường Tránh Phía Bắc QL 1A, P. Đông Thọ, TP. Thanh Hóa_Lô D, Khu C, Khu Đô Thị Bắc Cầu Hạc, P. Đông Thọ, TP. Thanh Hóa</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Thanh Hóa</ten>
+			<diachi>Số 42 Đại Lộ Lê Lợi,P. Điện Biên,TP. Thanh Hóa, Tỉnh Thanh Hóa</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Thanh Hóa</ten>
+			<diachi>Tỉnh Thanh Hóa</diachi>
+		</chicuc>
+		<doi>
+			<ten>Đội Đăng Ký Quản Lý Xe Phòng Cảnh Sát Giao Thông Công An Tỉnh Thanh Hóa</ten>
+			<diachi>Tỉnh Thanh Hóa</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Nghệ An	 -->
+	<csgt id="37" name="nghệ an-nghe an-nghean">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Nghệ An</ten>
+			<diachi>Số 108 Hoàng Phan Thái, Xã Nghi Phú, TP. Vinh, Nghệ An_Số 21 Lê Mao, Thành Phố Vinh, Tỉnh Nghệ An_108,đường Hoàng Phan Thái,xã Nghi Phú,TP Vinh,tỉnh Nghệ An</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Nghệ An</ten>
+			<diachi>Số 47 Đường Lê Hồng Phong, TP. Vinh,Tỉnh Nghệ An</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thủy sản tỉnh Nghệ An</ten>
+			<diachi>Số 80, đường Ngô Sỹ Liên,TP Vinh, tỉnh Nghệ An</diachi>
+		</chicuc>
+		<doi>
+			<ten>Đội Đăng Ký Quản Lý Xe Phòng Cảnh Sát Giao Thông Công An Tỉnh Nghệ An</ten>
+			<diachi>Tỉnh Nghệ An</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Hà Tĩnh	 -->
+	<csgt id="38" name="hà tĩnh-ha tinh-hatinh">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Hà Tĩnh</ten>
+			<diachi>Phường Thạch Trung, TP. Hà Tĩnh, Tỉnh Hà Tĩnh</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Hà Tĩnh</ten>
+			<diachi>Số 143 đường Hà Huy Tập,TP. Hà Tĩnh</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Hà Tĩnh</ten>
+			<diachi>Tỉnh Hà Tĩnh</diachi>
+		</chicuc>
+		<doi>
+			<ten>Đội Đăng Ký Quản Lý Xe Phòng Cảnh Sát Giao Thông Công An Tỉnh Hà Tĩnh</ten>
+			<diachi>Tỉnh Hà Tĩnh</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh TP. Đà Nẵng	 -->
+	<csgt id="43" name="đà nẵng-da nang-danang">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Thành Phố Đà Nẵng</ten>
+			<diachi>Số 45 Lý Tự Trọng, Q. Hải Châu, TP. Đà Nẵng</diachi>
+		</phong>
+		<so>
+			<ten>Sở giao thông vận tải Thành phố Đà Nẵng</ten>
+			<diachi>Tầng 14, TT Hành Chính, 24 Trần Phú, Q. Hải Châu, TP Đà Nẵng</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi Cục Thủy Sản Thành Phố Đà Nẵng</ten>
+			<diachi>Số 43-45 Thanh Sơn, TP.Đà Nẵng</diachi>
+		</chicuc>
+	</csgt>
+	<!-- tinh Đắk Lắk	 -->
+	<csgt id="47" name="đắk lắk-dak lak-daklak">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Đắk Lắk</ten>
+			<diachi>21 Hà Huy Tập, Tp Buôn Ma Thuột, Tỉnh Đắk Lắk</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Đắk Lắk</ten>
+			<diachi>07 Đinh Tiên Hoàn, Thành Phố Buôn Ma Thuột, Tỉnh Đắk Lắk</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Đắk Lắk</ten>
+			<diachi>Tỉnh Đắk Lắk</diachi>
+		</chicuc>
+	</csgt>
+	<!-- tinh Đắk Nông	 -->
+	<csgt id="48" name="đắk nông-dak nong-daknong">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Đăk Nông</ten>
+			<diachi>QL14, P. Nghĩa Tân, Thị Xã Gia Nghĩa, Tỉnh Đăk Nông</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Đăk Nông</ten>
+			<diachi>Tỉnh Đăk Nông</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Đăk Nông</ten>
+			<diachi>Tỉnh Đăk Nông</diachi>
+		</chicuc>
+	</csgt>
+	<!-- tinh Lâm Đồng	 -->
+	<csgt id="49" name="lâm đồng-lam dong-lamdong">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Lâm Đồng</ten>
+			<diachi>26 Hùng Vương, P. 10, TP. Đà Lạt, Tỉnh Lâm Đồng</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Lâm Đồng</ten>
+			<diachi>Tỉnh Lâm Đồng</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Lâm Đồng</ten>
+			<diachi>Tỉnh Lâm Đồng</diachi>
+		</chicuc>
+	</csgt><!-- tinh Tuyên Quang	 -->
+	<csgt id="41-50-51-52-53-54-55-56-57-58-59" name="hồ chí minh-ho chi minh-hochiminh-sài gòn-sai gon-saigon-hcm">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Thành Phố Hồ Chí Minh</ten>
+			<diachi>341 Trần Hưng Đạo, P. Cầu Kho, Q. 1, TP. Hồ Chí Minh</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Thành Phố Hồ Chí Minh</ten>
+			<diachi>Thành Phố Hồ Chí Minh</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Thành Phố Hồ Chí Minh</ten>
+			<diachi>Thành Phố Hồ Chí Minh</diachi>
+		</chicuc>
+		<doi>
+			<ten>Đội Đăng Ký Và Quản Lý Xe Phòng Cảnh Sát Giao Thông Công An Thành Phố Hồ Chí Minh</ten>
+			<diachi>282 Nơ Trang Long, P. 12, Q. Bình Thạnh, TP. Hồ Chí Minh</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Đồng Nai -->
+	<csgt id="39-60" name="đồng nai-dong nai-dongnai">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Đồng Nai</ten>
+			<diachi>Số 161 Phạm Văn Thuận, Tân Tiến, Biên Hoà, Đồng Nai</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Đồng Nai</ten>
+			<diachi>18 Phan Chu Trinh, P.Quang Vinh, Biên Hòa, Đồng Nai</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Tỉnh Đồng Nai</ten>
+			<diachi>Tỉnh Đồng Nai</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi cục Thành Tỉnh Tỉnh Đồng Nai</ten>
+			<diachi>Tỉnh Đồng Nai</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Bình Dương	 -->
+	<csgt id="61" name="bình dương-binh duong-binhduong">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Bình Dương</ten>
+			<diachi>03 Yersin, P. Hiệp Thành, Thủ Dầu Một, Tỉnh Bình Dương</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Bình Dương</ten>
+			<diachi>Tỉnh Bình Dương</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Bình Dương</ten>
+			<diachi>Tỉnh Bình Dương</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi cục Thành Tỉnh Bình Dương</ten>
+			<diachi>Tỉnh Bình Dương</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Long An	 -->
+	<csgt id="62" name="long an-longan">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Long An</ten>
+			<diachi>Số 16 Quốc Lộ 1A, Phường 5, TP. Tân An, Tỉnh Long An</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Long An</ten>
+			<diachi>Tỉnh Long An</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Long An</ten>
+			<diachi>Tỉnh Long An</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi cục Thành Tỉnh Long An</ten>
+			<diachi>Tỉnh Long An</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Tiền Giang	 -->
+	<csgt id="63" name="tiền giang-tien giang-tiengiang">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Tiền Giang</ten>
+			<diachi>152C Thái Sanh Hạnh, P. 9, TP. Mỹ Tho, Tỉnh Tiền Giang</diachi>
+		</phong>
+		<so>
+			<ten>Sở giao thông vận tải tỉnh Bà Rịa Vũng Tàu</ten>
+			<diachi>198 Bạch Đằng, TP. Bà Rịa, Tỉnh Bà Rịa Vũng Tàu</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Tiền Giang</ten>
+			<diachi>Tỉnh Tiền Giang</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi cục Thành Tỉnh Tiền Giang</ten>
+			<diachi>Tỉnh Tiền Giang</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Vĩnh Long	 -->
+	<csgt id="64" name="vĩnh long-vinh long-vinhlong">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Vĩnh Long</ten>
+			<diachi>11A/2 Tân Bình, Tân Hạnh, Huyện Long Hồ, Tỉnh Vĩnh Long</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Vĩnh Long</ten>
+			<diachi>Tỉnh Vĩnh LongQuang</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Vĩnh Long</ten>
+			<diachi>Tỉnh Vĩnh Long</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi cục Thành Tỉnh Vĩnh Long</ten>
+			<diachi>Tỉnh Vĩnh Long</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Cần Thơ	 -->
+	<csgt id="65" name="cần thơ-can tho-cantho">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Thành Phố Cần Thơ</ten>
+			<diachi>Số 6 Võ Nguyên Giáp, P. Hưng Thạnh, Q. Cái Răng, Cần Thơ</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải TP.Cần Thơ</ten>
+			<diachi>Số 1 Ngô Hữu Hạnh, P.An Hội, Q.Ninh Kiều, TP.Cần Thơ</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Thành Phố Cần Thơ</ten>
+			<diachi>Thành Phố Cần Thơ</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi cục Thành Thành Phố Cần Thơ</ten>
+			<diachi>Thành Phố Cần Thơ</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Đồng Tháp	 -->
+	<csgt id="66" name="đồng tháp-dong thap-dongthap">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Đồng Tháp</ten>
+			<diachi>238 Lê Đại Hành, P. Mỹ Phú, TP. Cao Lãnh, Tỉnh Đồng Tháp</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Đồng Tháp</ten>
+			<diachi>Tỉnh Đồng Tháp</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Đồng Tháp</ten>
+			<diachi>Tỉnh Đồng Tháp</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi cục Thành Tỉnh Đồng Tháp</ten>
+			<diachi>Tỉnh Đồng Tháp</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh An Giang -->
+	<csgt id="67" name="an giang-angiang">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh An Giang</ten>
+			<diachi>Số 9 Nguyễn Thị Minh Khai, Mỹ Long, Long Xuyên, An Giang_Số 7, Trần Hưng Đạo,P. Mỹ Long, TP. Long Xuyên, Tỉnh An Giang</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh An Giang</ten>
+			<diachi>01 Lý Thường Kiệt,P. Mỹ Long,TP Long Xuyên, tỉnh An Giang</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh An Giang</ten>
+			<diachi>Tỉnh An Giang</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi cục Thành Tỉnh An Giang</ten>
+			<diachi>Tỉnh An Giang</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh KIên giang	 -->
+	<csgt id="68" name="kiên giang-kien giang-kiengiang">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Kiên Giang</ten>
+			<diachi>836A Nguyễn Trung Trực, P. An Hòa, Rạch Giá, Kiên Giang</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Kiên Giang</ten>
+			<diachi>1190 Nguyễn Trung Trực, P.An Hòa, TP.Rạch Giá, Kiên Giang</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi Cục Khai Thác Và Bảo Vệ Nguồn Lợi Thủy Sản Tỉnh Kiên Giang</ten>
+			<diachi>02 Huỳnh Tịnh Của, P.Vĩnh Thanh Vân, Rạch Giá, Kiên Giang</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi Cục Khai Thác Và Bảo Vệ Nguồn Lợi Thủy Sản Tỉnh Kiên Giang</ten>
+			<diachi>02 Huỳnh Tịnh Của, P.Vĩnh Thanh Vân, Rạch Giá, Kiên Giang</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Cà Mau-->
+	<csgt id="69" name="cà mau-ca mau-camau">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Cà Mau</ten>
+			<diachi>444 Phan Ngọc Hiển, TP Cà Mau, Tỉnh Cà Mau</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Cà Mau</ten>
+			<diachi>Tỉnh Cà Mau</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Cà Mau</ten>
+			<diachi>Tỉnh Cà Mau</diachi>
+		</chicuc>
+                                   <doi>
+			<ten>Chi cục Thành Tỉnh Cà Mau</ten>
+			<diachi>Tỉnh Cà Mau</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Tây Ninh-->
+	<csgt id="70" name="tây ninh-tay ninh-tayninh">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Tây Ninh</ten>
+			<diachi>Đường Trường Chinh,  KP 1, P. 3, TP. Tây Ninh, Tây Ninh</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Tây Ninh</ten>
+			<diachi>Đường 30/04, Phường 2, Thành Phố Tây Ninh, Tây Ninh</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Tây Ninh</ten>
+			<diachi>Tỉnh Tây Ninh</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi cục Thành Tỉnh Tây Ninh</ten>
+			<diachi>Tỉnh Tây Ninh</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Bến Tre-->
+	<csgt id="71" name="bến tre-ben tre-bentre">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Bến Tre</ten>
+			<diachi>114A Ấp Phú Chiến, Xã Phú Hưng, TP. Bến Tre, Tỉnh Bến Tre</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Bến Tre</ten>
+			<diachi>539/B4 Nguyễn Thị Định,KP 3,P. Phú Khương,TP. Bến Tre, Tỉnh Bến Tre</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Bến Tre</ten>
+			<diachi>Tỉnh Bến Tre</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi cục Thành Tỉnh Bến Tre</ten>
+			<diachi>Tỉnh Bến Tre</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh BRVT-->
+	<csgt id="72" name="bà rịa vũng tàu-ba ria vung tau-bariavungtau-brvt">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Bà Rịa Vũng Tàu</ten>
+			<diachi>189 Bạch Đằng, P. Phước Trung, TP.Bà Rịa, Bà Rịa-Vũng Tàu</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Bà Rịa Vũng Tàu</ten>
+			<diachi>198 Bạch Đằng, P. Phước Trung, TP.Bà Rịa, Bà Rịa-Vũng Tàu</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi Cục KT&amp;BV Nguồn Lợi Thủy Sản Tỉnh Bà Rịa Vũng Tàu-Sở NN&amp;PT Nông Thôn tỉnh BRVT</ten>
+			<diachi>331 Trần Xuân Độ, Khu phố 2, P.Phước Trung, TP.Bà Rịa, BR-VT_Khu Phố II,Phường Phước Trung, TP Bà Rịa, tỉnh BRVT</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi Cục KT&amp;BV Nguồn Lợi Thủy Sản Tỉnh Bà Rịa Vũng Tàu</ten>
+			<diachi>331 Trần Xuân Độ, Khu phố 2, P.Phước Trung, TP.Bà Rịa, BR-VT</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Quảng Bình-->
+	<csgt id="73" name="quảng bình-quang binh-quangbinh">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Quảng Bình</ten>
+			<diachi>577 Lý Thường Kiệt, TP. Đồng Hới, Tỉnh Quảng Bình_Tiểu khu 14,phường Bắc Lý,thành phố Đồng Hới,tỉnh Quảng Bình</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Quảng Bình</ten>
+			<diachi>Tỉnh Quảng Bình</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi Cục Khai Thác Và Bảo Vệ Nguồn Lợi Thủy Sản Quảng Bình</ten>
+			<diachi>128 Đường Quang Trung, TP.Đồng Hới, Quảng Bình_03, Đường Lê Thành Đồng,TP. Đồng Hới,tỉnh Quảng Bình</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi Cục Khai Thác Và Bảo Vệ Nguồn Lợi Thủy Sản Quảng Bình</ten>
+			<diachi>128 Đường Quang Trung, TP.Đồng Hới, Quảng Bình</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Quảng Trị-->
+	<csgt id="74" name="quảng trị-quang tri-quangtri">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Quảng Trị</ten>
+			<diachi>Đường Điện Biên Phủ, Đông Lương, Đông Hà, Quảng Trị</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Quảng Trị</ten>
+			<diachi>Số 73 Quốc Lộ 9, Thành Phố Đông Hà, Tỉnh Quảng Trị</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi Cục Khai Thác Và BVNLTS Tỉnh Quảng Trị</ten>
+			<diachi>63 Trần Hưng Đạo, TP. Đông Hà, Tỉnh Quảng Trị</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi Cục Khai Thác Và BVNLTS Tỉnh Quảng Trị</ten>
+			<diachi>63 Trần Hưng Đạo, TP. Đông Hà, Tỉnh Quảng Trị</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Thừa Thiên Huế-->
+	<csgt id="75" name="thừa thiên huế-huế-thua thien hue-thuathienhue-hue">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Thừa Thiên Huế</ten>
+			<diachi>Số 26 Hà Nội, TP. Huế, Tỉnh Thừa Thiên Huế</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Thừa Thiên Huế</ten>
+			<diachi>Sô 10 Phan Bội Châu, TP. Huế, Tỉnh Thừa Thiên Huế</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi Cục Khai Thác Và Bảo Vệ Nguồn Lợi Thủy Sản Thừa Thiên Huế</ten>
+			<diachi>148 Bùi Thị Xuân, TP.Huế, Tỉnh Thừa Thiên Huế</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi Cục Khai Thác Và Bảo Vệ Nguồn Lợi Thủy Sản Thừa Thiên Huế</ten>
+			<diachi>148 Bùi Thị Xuân, TP.Huế, Tỉnh Thừa Thiên Huế</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Quảng Ngãi-->
+	<csgt id="76" name="quảng ngãi-quang ngai-quangngai">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Quảng Ngãi</ten>
+			<diachi>403 Lê Lợi, TP Quảng Ngãi, Tỉnh Quảng Ngãi</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Quảng Ngãi</ten>
+			<diachi>39 Hai Bà Trưng, TP Quảng Ngãi, Tỉnh Quảng Ngãi</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi Cục Thủy Sản Tỉnh Quảng Ngãi</ten>
+			<diachi>41 đường Phạm Văn Đồng, TP.Quảng Ngãi, Tỉnh Quảng Ngãi_264 Trần Hưng Đạo, TP Quãng Ngãi,tỉnh Quãng Ngãi</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi Cục Thủy Sản Tỉnh Quảng Ngãi</ten>
+			<diachi>41 đường Phạm Văn Đồng, TP.Quảng Ngãi, Tỉnh Quảng Ngãi</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Bình Định-->
+	<csgt id="77" name="bình định-binh dinh-binhdinh">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Bình Định</ten>
+			<diachi>Số 05 Ỷ Lan, Tp Quy Nhơn, Tỉnh Bình Định</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Bình Định</ten>
+			<diachi>16 Nguyễn Huệ, Thành Phố Quy Nhơn, Tỉnh Bình Định</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi Cục KT&amp;BV Nguồn Lợi Thủy Sản Tỉnh Bình Định</ten>
+			<diachi>110 Trần Hưng Đạo, TP.Quy Nhơn, Tỉnh Bình Định</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi Cục KT&amp;BV Nguồn Lợi Thủy Sản Tỉnh Bình Định</ten>
+			<diachi>110 Trần Hưng Đạo, TP.Quy Nhơn, Tỉnh Bình Định</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Phú Yên -->
+	<csgt id="78" name="phú yên-phu yen-phuyen">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Phú Yên</ten>
+			<diachi>Thôn Ân Niên, Xã Hòa An, Phú Hòa, Tỉnh Phú Yên_Km số 3,Quốc Lộ 1, Xã Hòa An, Phú Hòa, Tỉnh Phú Yên</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Phú Yên</ten>
+			<diachi>72 Lê Duẩn, Phường 7, Tp. Tuy Hòa, Tỉnh Phú Yên</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi Cục Bảo Vệ Nguồn Lợi Thủy Sản Tỉnh Phú Yên</ten>
+			<diachi>01 Lý Tự Trọng, TP.Tuy Hòa, Tỉnh Phú Yên</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi Cục Bảo Vệ Nguồn Lợi Thủy Sản Tỉnh Phú Yên</ten>
+			<diachi>01 Lý Tự Trọng, TP.Tuy Hòa, Tỉnh Phú Yên</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Khánh Hòa -->
+	<csgt id="79" name="khánh hòa-khanh hoa-khanhhoa-khanhoa">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Khánh Hòa</ten>
+			<diachi>Số 14 Võ Văn Ký, Phương Sài, Tp Nha Trang, Khánh Hoà</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Khánh Hòa</ten>
+			<diachi>Số 04 Phan Chu Trinh, Xương Huân, Nha Trang, Khánh Hoà</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi Cục Khai Thác Và Bảo Vệ NLTS Tỉnh Khánh Hòa</ten>
+			<diachi>Khu Liên Cơ I, 85 đường 2/4, P.Vạn Thắng, Nha Trang, Khánh Hòa</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi Cục Khai Thác Và Bảo Vệ NLTS Tỉnh Khánh Hòa</ten>
+			<diachi>Khu Liên Cơ I, 85 đường 2/4, P.Vạn Thắng, Nha Trang, Khánh Hòa</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Gia Lai -->
+	<csgt id="81" name="gia lai-gialai">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Gia Lai</ten>
+			<diachi>04 Lý Thái Tổ, Thành Phố Pleiku, Tỉnh Gia Lai</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Gia Lai</ten>
+			<diachi>Số 10 Trần Hưng Đạo, TP. Pleiku, Tỉnh Gia Lai</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Gia Lai</ten>
+			<diachi>Tỉnh Gia Lai</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi cục Thành Tỉnh Gia Lai</ten>
+			<diachi>Tỉnh Gia Lai</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Kon Tum -->
+	<csgt id="82" name="kon tum-kontum">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Kon Tum</ten>
+			<diachi>147 URê, TP. Kon Tum, Tỉnh Kon Tum</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Kon Tum</ten>
+			<diachi>135 Bà Triệu, TP. Kon Tum, Tỉnh Kon Tum</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Kon Tum</ten>
+			<diachi>Tỉnh Kon Tum</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi cục Thành Tỉnh Kon Tum</ten>
+			<diachi>Tỉnh Kon Tum</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Sóc Trăng-->
+	<csgt id="83" name="sóc trăng-soc trang-soctrang">
+		<phong>
+			<ten>Phòng Cảnh sát giao thông Công an  Tỉnh Sóc Trăng</ten>
+			<diachi>477 Lê Duẩn, K4, P. 9, TP.  Sóc Trăng, Sóc Trăng</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Sóc Trăng</ten>
+			<diachi>Số 20 Trần Hưng Đạo, Tỉnh Sóc Trăng</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Sóc Trăng</ten>
+			<diachi>Tỉnh Sóc Trăng</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi cục Thành Tỉnh Sóc Trăng</ten>
+			<diachi>Tỉnh Sóc Trăng</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Trà Vinh-->
+	<csgt id="84" name="trà vinh-tra vinh-travinh">
+		<phong>
+			<ten>Phòng Cảnh sát giao thông  Công an Tỉnh Trà Vinh</ten>
+			<diachi>153 Quốc Lộ 60, P. 8, TP. Trà Vinh, Tỉnh Trà Vinh</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Trà Vinh</ten>
+			<diachi>Số 20 Trần Hưng Đạo, Tỉnh Trà Vinh</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Trà Vinh</ten>
+			<diachi>Tỉnh Trà Vinh</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi cục Thành Tỉnh Trà Vinh</ten>
+			<diachi>Tỉnh Trà Vinh</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Ninh Thuận-->
+	<csgt id="85" name="ninh thuận-ninh thuan-ninhthuan">
+		<phong>
+			<ten>Phòng Cảnh sát Giao thông Công An Tỉnh Ninh Thuận</ten>
+			<diachi>Đường 16/4, TP Phan Rang – Tháp Chàm, Tỉnh Ninh Thuận</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Ninh Thuận</ten>
+			<diachi>Đường 21 Tháng 8, Phước Mỹ, Phan Rang – Tháp Chàm, Ninh Thuận</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Ninh Thuận</ten>
+			<diachi>Tỉnh Ninh Thuận</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi cục Thành Tỉnh Ninh Thuận</ten>
+			<diachi>Tỉnh Ninh Thuận</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Bình Thuận-->
+	<csgt id="86" name="bình thuận-binh thuan-binhthuan">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Bình Thuận</ten>
+			<diachi>Đường Tôn Đức Thắng, TP. Phan Thiết, Bình Thuận</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Bình Thuận</ten>
+			<diachi>Tỉnh Bình Thuận</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi Cục Thủy Sản Tỉnh Bình Thuận</ten>
+			<diachi>Số 380 Thủ Khoa Huân, TP.Phan Thiết, Tỉnh Bình Thuận</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi Cục Thủy Sản Tỉnh Bình Thuận</ten>
+			<diachi>Số 380 Thủ Khoa Huân, TP.Phan Thiết, Tỉnh Bình Thuận</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Vĩnh Phúc-->
+	<csgt id="88" name="vĩnh phúc-vinh phuc-vinhphuc">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Vĩnh Phúc</ten>
+			<diachi>Phường Khai Quang, Vĩnh Yên, Tỉnh Vĩnh Phúc</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Vĩnh Phúc</ten>
+			<diachi>Tỉnh Vĩnh Phúc</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Vĩnh Phúc</ten>
+			<diachi>Tỉnh Vĩnh Phúc</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi cục Thành Tỉnh Vĩnh Phúc</ten>
+			<diachi>Tỉnh Vĩnh Phúc</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Hưng Yên-->
+	<csgt id="89" name="hưng yên-hung yen-hungyen">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Hưng Yên</ten>
+			<diachi>Đường Hải Thượng Lãn Ông, P. Hiến Nam TP. Hưng Yên, Tỉnh Hưng Yên</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Hưng Yên</ten>
+			<diachi>Tỉnh Hưng Yên</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Hưng Yên</ten>
+			<diachi>Tỉnh Hưng Yên</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi cục Thành Tỉnh Hưng Yên</ten>
+			<diachi>Tỉnh Hưng Yên</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Hà Nam-->
+	<csgt id="90" name="hà nam-ha nam-hanam">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Hà Nam</ten>
+			<diachi>Đường Trần Nhật Duật, P. Lê Hồng Phong, TP. Phủ Lý, Tỉnh Hà Nam</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Hà Nam</ten>
+			<diachi>Tỉnh Hà Nam</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Hà Nam</ten>
+			<diachi>Tỉnh Hà Nam</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi cục Thành Tỉnh Hà Nam</ten>
+			<diachi>Tỉnh Hà Nam</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Quảng Nam-->
+	<csgt id="92" name="quảng nam-quang nam-quangnam">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Quảng Nam</ten>
+			<diachi>41 Trần Quý Cáp, TP. Tam Kỳ, Quảng Nam</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Quảng Nam</ten>
+			<diachi>12 Trần Phú, Phường Tân Thạnh, TP. Tam Kỳ, Tỉnh Quảng Nam</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi Cục Thủy Sản Tỉnh Quảng Nam</ten>
+			<diachi>01 Hùng Vương, TP.Tam Kỳ, Tỉnh Quảng Nam</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi Cục Thủy Sản Tỉnh Quảng Nam</ten>
+			<diachi>01 Hùng Vương, TP.Tam Kỳ, Tỉnh Quảng Nam</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Bình Phước-->
+	<csgt id="93" name="bình phước-binh phuoc-binhphuoc">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Bình Phước</ten>
+			<diachi>Đường Trần Hưng Đạo, P. Tân Phú, Đồng Xoài, Bình Phước</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Bình Phước</ten>
+			<diachi>Số 682 QL 14, P. Tân Phú, Đồng Xoài, Bình Phước</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Bình Phước</ten>
+			<diachi>Tỉnh Bình Phước</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi cục Thành Tỉnh Bình Phước</ten>
+			<diachi>Tỉnh Bình Phước</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Bạc Liêu-->
+	<csgt id="94" name="bạc liêu-bac lieu-baclieu">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Đường Bộ Công An Tỉnh Bạc Liêu</ten>
+			<diachi>Trạm Giao Thông 24, Khóm 1, P. 7, TP. Bạc Liêu, Tỉnh Bạc Liêu</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Bạc Liêu</ten>
+			<diachi>Số 9 đường Nguyễn Tất Thành,Phường 1,TP. Bạc Liêu, Tỉnh Bạc Liêu</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Bạc Liêu</ten>
+			<diachi>Tỉnh Bạc Liêu</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi cục Thành Tỉnh Bạc Liêu</ten>
+			<diachi>Tỉnh Bạc Liêu</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Hậu Giang-->
+	<csgt id="95" name="hậu giang-hau giang-haugiang">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Hậu Giang</ten>
+			<diachi>Đường Lê Hồng Phong, P. 5, TP. Vị Thanh, Tỉnh Hậu Giang</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Hậu Giang</ten>
+			<diachi>Tỉnh Hậu Giang</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Hậu Giang</ten>
+			<diachi>Tỉnh Hậu Giang</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi cục Thành Tỉnh Hậu Giang</ten>
+			<diachi>Tỉnh Hậu Giang</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Bắc Kạn-->
+	<csgt id="97" name="bắc kạn-bac kan-backan">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Bắc Kạn</ten>
+			<diachi>Phường Minh Khai, Thành Phố Bắc Kạn, Tỉnh Bắc Kạn</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Bắc Kạn</ten>
+			<diachi>Tỉnh Bắc Kạn</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Bắc Kạn</ten>
+			<diachi>Tỉnh Bắc Kạn</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi cục Thành Tỉnh Bắc Kạn</ten>
+			<diachi>Tỉnh Bắc Kạn</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Bắc Giang-->
+	<csgt id="98" name="bắc giang-bac giang-bacgiang">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Bắc Giang</ten>
+			<diachi>Số 07 Xương Giang, TP. Bắc Giang, Tỉnh Bắc Giang</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Bắc Giang</ten>
+			<diachi>Tỉnh Bắc Giang</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Bắc Giang</ten>
+			<diachi>Tỉnh Bắc Giang</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi cục Thành Tỉnh Bắc Giang</ten>
+			<diachi>Tỉnh Bắc Giang</diachi>
+		</doi>
+	</csgt>
+	<!-- tinh Bắc Ninh-->
+	<csgt id="99" name="bắc ninh-bac ninh-bacninh">
+		<phong>
+			<ten>Phòng Cảnh Sát Giao Thông Công An Tỉnh Bắc Ninh</ten>
+			<diachi>Khu Khả Lễ, P. Võ Cường, TP. Bắc Ninh, Bắc Ninh</diachi>
+		</phong>
+		<so>
+			<ten>Sở Giao Thông Vận Tải Tỉnh Bắc Ninh</ten>
+			<diachi>Số 16 Nguyễn Phi Ỷ Lan, TP. Bắc Ninh, Bắc Ninh</diachi>
+		</so>
+		<chicuc>
+			<ten>Chi cục Thành Tỉnh Bắc Ninh</ten>
+			<diachi>Tỉnh Bắc Ninh</diachi>
+		</chicuc>
+        <doi>
+			<ten>Chi cục Thành Tỉnh Bắc Ninh</ten>
+			<diachi>Tỉnh Bắc Ninh</diachi>
+		</doi>
+	</csgt>
+</data>

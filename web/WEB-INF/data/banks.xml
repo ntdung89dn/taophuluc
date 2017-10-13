@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<banks>
+	<!-- a chau -->
+	<bank id="1">
+		<name>Á Châu</name>
+		<sname>ACB</sname>
+	</bank>
+	<bank id="2">
+		<name>Ðông Á</name>
+		<sname>DongA Bank</sname>
+	</bank>
+	<!-- Đông á -->
+	<bank id="3">
+		<name>Ðông Nam Á</name>
+		<sname>SeaBank</sname>
+	</bank>
+	<bank>
+		<name>An Bình</name>
+		<sname>ABBank</sname>
+	</bank>
+	<bank>
+		<name>Bắc Á</name>
+		<sname>BAC A Bank</sname>
+	</bank>
+	<bank>
+		<name>Dầu Khí Toàn Cầu</name>
+		<sname>GP.Bank</sname>
+	</bank>
+	<bank>
+		<name>Bản Việt</name>
+		<sname>VIET CAPITAL BANK</sname>
+	</bank>
+	<bank>
+		<name>Hàng Hải Việt Nam</name>
+		<sname>Maritime Bank</sname>
+	</bank>
+	<bank>
+		<name>Kỹ Thương Việt Nam</name>
+		<sname>TCB</sname>
+	</bank>
+	<bank>
+		<name>Kiên Long</name>
+		<sname>KienLongBank</sname>
+	</bank>
+	<bank>
+		<name>Nam Á</name>
+		<sname>Nam A Bank</sname>
+	</bank>
+	<bank>
+		<name>Quốc Dân</name>
+		<sname>NCB</sname>
+	</bank>
+	<bank>
+		<name>Việt Nam Thịnh Vượng</name>
+		<sname>VPBank</sname>
+	</bank>
+	<bank>
+		<name>Phát Triển TP Hồ Chí Minh</name>
+		<sname>HDBank</sname>
+	</bank>
+	<bank>
+		<name>Phương Nam</name>
+		<sname>Southern Bank</sname>
+	</bank>
+	<bank>
+		<name>Phương Ðông</name>
+		<sname>OCB</sname>
+	</bank>
+	<bank>
+		<name>Quân Đội</name>
+		<sname>MBBank</sname>
+	</bank>
+	<bank>
+		<name>Đại Chúng Việt Nam</name>
+		<sname>PVcombank</sname>
+	</bank>
+	<bank>
+		<name>Quốc Tế Việt Nam</name>
+		<sname>VIB</sname>
+	</bank>
+	<bank>
+		<name>Sài Gòn</name>
+		<sname>SCB</sname>
+	</bank>
+	<bank>
+		<name>Sài Gòn Công Thương</name>
+		<sname>Saigonbank</sname>
+	</bank>
+	<bank>
+		<name>Sài Gòn Hà Nội</name>
+		<sname>SHB</sname>
+	</bank>
+	<bank>
+		<name>Sài Gòn Thương Tín</name>
+		<sname>Sacombank</sname>
+	</bank>
+	<bank>
+		<name>Việt Á</name>
+		<sname>VietABank</sname>
+	</bank>
+	<bank>
+		<name>Bảo Việt</name>
+		<sname>BaoVietBank</sname>
+	</bank>
+	<bank>
+		<name>Việt Nam Thương Tín</name>
+		<sname>VietBank</sname>
+	</bank>
+	<bank>
+		<name>Xăng Dầu Petrolimex</name>
+		<sname>PGBank</sname>
+	</bank>
+	<bank>
+		<name>Xuất Nhập Khẩu Việt Nam</name>
+		<sname>Eximbank</sname>
+	</bank>
+	<bank>
+		<name>Bưu Điện Liên Việt</name>
+		<sname>LienVietPostBank</sname>
+	</bank>
+	<bank>
+		<name>Bưu Điện Liên Việt Việt Nam</name>
+		<sname>LienVietPostBank</sname>
+	</bank>
+	<bank>
+		<name>Tiên Phong</name>
+		<sname>TPBank</sname>
+	</bank>
+	<bank>
+		<name>Ngoại Thương Việt Nam</name>
+		<sname>VCB</sname>
+	</bank>
+	<bank>
+		<name>Phát Triển Mê Kông</name>
+		<sname>MDB</sname>
+	</bank>
+	<bank>
+		<name>Công Thương Việt Nam</name>
+		<sname>Vietinbank</sname>
+	</bank>
+	<bank>
+		<name>ĐT&amp;PT Việt Nam</name>
+		<sname>BIDV</sname>
+	</bank>
+	<bank>
+		<name>NN&amp;PTNT Việt Nam</name>
+		<sname>Agribank</sname>
+	</bank>
+	<bank>
+		<name>ANZ</name>
+		<sname>ANZ</sname>
+	</bank>
+	<bank>
+		<name>Deutsche Bank Việt Nam</name>
+		<sname>Deutsche Bank</sname>
+	</bank>
+	<bank>
+		<name>Citibank Việt Nam</name>
+		<sname>Citibank</sname>
+	</bank>
+	<bank>
+		<name>HSBC</name>
+		<sname>HSBC</sname>
+	</bank>
+	<bank>
+		<name>Standard Chartered</name>
+		<sname>Standard Chartered</sname>
+	</bank>
+	<bank>
+		<name>Shinhan Việt Nam</name>
+		<sname>Shinhan</sname>
+	</bank>
+	<bank>
+		<name>Shinhan</name>
+		<sname>Shinhan</sname>
+	</bank>
+	<bank>
+		<name>Hong Leong Việt Nam</name>
+		<sname>Hong Leong Bank Vietnam Limited</sname>
+	</bank>
+	<bank>
+		<name>Mizuho</name>
+		<sname>Mizuho</sname>
+	</bank>
+	<bank>
+		<name>Sumitomo Mitsui</name>
+		<sname>Sumitomo Mitsui Bank</sname>
+	</bank>
+	<bank>
+		<name>ÐT&amp;PT Campuchia</name>
+		<sname>BIDC</sname>
+	</bank>
+	<bank>
+		<name>Indovina</name>
+		<sname>IVB</sname>
+	</bank>
+	<bank>
+		<name>Việt-Nga</name>
+		<sname>VRB</sname>
+	</bank>
+	<bank>
+		<name>ShinhanVina</name>
+		<sname>SVB</sname>
+	</bank>
+	<bank>
+		<name>Public Bank Việt Nam</name>
+		<sname>VID PB</sname>
+	</bank>
+	<bank>
+		<name>Việt-Thái</name>
+		<sname>VSB</sname>
+	</bank>
+	<bank>
+		<name>Việt-Lào</name>
+		<sname>LVB</sname>
+	</bank>
+</banks>
